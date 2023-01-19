@@ -50,3 +50,12 @@
     background-color: white;
     padding-bottom: 20px;
 }
+.height{
+    height: 300px;
+}
+.height h6{
+    color: grey;
+}
+.top{
+    margin-top: 10px;
+}
